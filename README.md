@@ -271,3 +271,6 @@ data-quality-env/
 ## License
 
 MIT. See [LICENSE](LICENSE).
+#Author
+
+Teja
